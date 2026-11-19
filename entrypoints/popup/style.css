@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+@import '../../assets/app.css';
+
+html,
+body,
+#root {
+  width: 380px;
+  min-height: 0;
+  background: white;
+}
